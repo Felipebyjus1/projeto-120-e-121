@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: orange;
+}
+img{
+    width: 500px;
+}
+h3{
+    color: red;
+}
+h2{
+    color: rgb(0, 0, 255);
+}
+h1{
+    color: rgb(0, 0, 255);
+}
+.headingDiv
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    margin-bottom: 50px;
+}
+.resultadoGoogle{
+    margin-right: 20px;
+    font-size: x-large;
+}
+.resultadoMobile{
+    margin-left: 20px;
+    font-size: x-large;
+}
+#aaaaa{
+    font-size: x-large;  
+}
